@@ -1,6 +1,7 @@
 NOME DO PROJETO: Jogo-da-Velha-Arduino
 
 ## Autora;"" julia borgo
+29/04
 
 *Apresentação*:
 o jogo da velha  que criamos no flow é um jogo bem dinamico e interresante pra todas as idades, o  objetivo é posicionar as peças de modo que formem uma linha reta Duas pessoas jogam alternadamente preenchendo cada um dos espaços vazios. Cada participante deve usar um símbolo (X ou O) assim Vence o jogador que conseguir formar primeiro uma linha com três símbolos iguais, seja ela na horizontal, vertical ou diagonal.
